@@ -1,0 +1,17 @@
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Assembly-CSharp.dll
+/Workspace/Projects/Unity/Unity Project Template/obj/Debug/Assembly-CSharp.dll
+/Workspace/Projects/Unity/Unity Project Template/obj/Debug/Assembly-CSharp.dll.mdb
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/UnityEngine.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/UnityEditor.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/UnityEngine.UI.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/UnityEngine.Networking.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Mono.Cecil.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Unity.DataContract.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Unity.CecilTools.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Workspace/Projects/Unity/Unity Project Template/Temp/bin/Debug/Mono.Cecil.Mdb.dll
